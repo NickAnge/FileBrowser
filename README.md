@@ -6,5 +6,5 @@ File Browser with interface written in java
 
 
 ##ToDO in the future
--Working Search Button
+-Working Search Button\
 -Customization of the folder display
