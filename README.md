@@ -1,5 +1,5 @@
 # FileBrowser
-File Browser with interface written in java
+File Browser with interface written in java with java swing and DefaultMutableTreeNode
 
 ![File Browser Preview](https://github.com/NickAnge/FileBrowser/blob/master/preview.png)
 
